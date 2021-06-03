@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A penny post: or, a vindication of the liberty and birthright of every English-man in carrying merchants &amp; other men's letters, against any restraint of farmers of such employments. By John Hill.</title>
+            <author>Hill, John, of York.</author>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24173</idno><idno type="EEBO-CITATION">99828578</idno>
+  <idno type="VID">206943</idno>
+  <idno type="EEBO-PROQUEST">2240883424</idno>
+  
+            <idno type="STC">Wing H1997</idno>
+            <idno type="PROQUEST">99828578</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828578e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24173)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206943)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1867:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A penny post: or, a vindication of the liberty and birthright of every English-man in carrying merchants &amp; other men's letters, against any restraint of farmers of such employments. By John Hill.</title>
+                  <author>Hill, John, of York.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the yeare 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title reads: A penny-post, or a vindication of the liberty of every Englishman, in carrying merchants and other men's letters, &amp;c.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Postal service --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206943:1"/>
+            <p>A PENNY POST: OR, A VINDICATION OF THE Liberty and Birthright OF EVERY <hi>ENGLISH-MAN,</hi> IN Carrying Merchants &amp; other men's <hi>Letters,</hi> against any restraint of Farmers of such Employments.</p>
+            <p>By <hi>John Hill.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Yeare 1659.</p>
+            <pb facs="tcp:206943:2"/>
+            <pb facs="tcp:206943:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:206943:3"/>
+            <head>A <hi>Penny-Post,</hi> or a Vindication of the Liberty of every English<g ref="char:EOLhyphen"/>man, in carrying Merchants and other men's Letters, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>N the Month of <hi>August,</hi> which was in the yeere of our Lord 1642. upon complaint made to this Parliament that certain persons were restrained and imprisoned by certain Patentees, or their As<g ref="char:EOLhyphen"/>signs, for the carrying of such Merchants, or o<g ref="char:EOLhyphen"/>ther mens Letters as should employ them, thereupon it was re<g ref="char:EOLhyphen"/>solved, That the taking of Letters from, and the restraints and imprisonments of the persons then complaining, namely, <hi>Grover, Chatman,</hi> and others, was against Law, Liberty, and Freedom of the People; and that those persons ought to have Reparations from <hi>Cook</hi> and <hi>Windebancke,</hi> Secretaries of State; and that they were Delinquents for so doing, as by their Votes may appear.</p>
+            <p>In <hi>November</hi> following, Mr. <hi>Prid<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aux,</hi> late Attorney General, taking notice that the Parliament had thus honoura<g ref="char:EOLhyphen"/>bly asserted the Liberties of the People, and punished Monopo<g ref="char:EOLhyphen"/>lizers, writ to all the Post-Masters in England, That the Lords and Commons concurred in vindicating the Rights and Liber<g ref="char:EOLhyphen"/>ties
+<pb n="3" facs="tcp:206943:3"/>of every person in this Nation: And that in prosecution of that Freedom which was due to every English man, assu<g ref="char:EOLhyphen"/>med the Liberty of carrying and recarrying of Letters by way of Posts, (which then had formerly been obstructed) and that if they should think fit to joyn with him out of the benefit ac<g ref="char:EOLhyphen"/>cruing by such Employment; they might expect their Sallaries, as by his Letters appear. Whereupon they forthwith compli<g ref="char:EOLhyphen"/>ed, and continued to exact six pence for the carriage of every single Letter, till the latter end of the year 1652. that <hi>J. H.</hi> of the City of <hi>York;</hi> then an Attorney at Law, (when all pro<g ref="char:EOLhyphen"/>vision for Horses was scarce and dear) contrived the placing of Horses in the Road between <hi>London</hi> and <hi>York,</hi> whereby any person that had occasion to travel, might be furnished with Horses and Furniture, at the rate of two pence for a Mile; &amp; then also at the instance of the Lord Mayor, Aldermen, and others of the City of <hi>York</hi> Town of <hi>Hull, Newcastle, Durham,</hi> and other Corporations, having the approbation and encourage<g ref="char:EOLhyphen"/>ment from the greater part of the Officers of the Armies then in <hi>Scotland,</hi> and the Northern parts of this Nation, as appears under their hands, undertook the carrying of Letters and small Commodities, at the half rates, and less, then the same had at any time been carryed at, which tended much to the advantage and ease of the people; and taking to himself <hi>Clem. Oxenbridge</hi> Esq; and others Partners, (they being much importuned by ma<g ref="char:EOLhyphen"/>ny Citizens of London, and most of the Corporations within this Nation, to communicate the like benefit into all the usual Roads in <hi>E<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and</hi> and <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cotla<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</hi>) settles the same not onely in the usual Roads, but also in several places where no Posts for<g ref="char:EOLhyphen"/>merly went, notwithstanding the continual opposition of Mr. <hi>Prideaux</hi> and his prevalent friends then of the Council of State, by whom he obtained several Orders to discourage the then proceedings; yet it being obvious as well by the Opinions of the Judges whom the Parliament consulted as to the point of restraint, as also by the Votes of Lords and Commons, That the People had Legal Right to the choice of their Agent for that employment, continued such carriage of Letters for one whole year, though to their great loss and damage. But
+<pb n="3" facs="tcp:206943:4"/>soon alter they had setled the Thursday Post, which is continued to this day, the Parliament being then first interrupted in the year 1653. the Council of <hi>Oliver;</hi> late Lord Protector, let the carriage of Letters as well forreign as Inland, to a man who had neither spent money, nor taken pains in reducing the same, which caused a forcible restraint by Souldiers to be put upon the said Undertakers, and they compelled to desist from their lawful employment for the ease and benefit of the Nati<g ref="char:EOLhyphen"/>ons, and to avoid such inconveniency as in probability would have followed by a contest at that time when the people were so highly, and (as conceived) justly discontented, that those who then assumed the Supreme Authority, having in the year 1642 as aforesaid, condemned the restrictive Clauses in the late Kings Patent, granted in the 13. year of his Reign, against the Liber<g ref="char:EOLhyphen"/>ty and freedom of the People, although that Patent was <hi>abs{que} aliquid inde reddendo</hi>) should infringe their Liberties in sending Letters by those who carryed at the lowest rate, and by whom they had received so much benefit) were content to fit still &amp; wait till providence should make out an opportunity either by restoring the Parliament to that fulness and freedom of acting which was in the said year 1642, or till a full and free Parlia<g ref="char:EOLhyphen"/>ment should be called, either of which as was not the least doubted but would vindicate the just Liberties of the people in this particular: And in regard it is evidently demonstrated as well by principal Merchants in <hi>London,</hi> as by Tradesmen in other Corporations, that the Rates now taken for single and double Letters together, (the Farmers assuming Liberty to rate all Letters above single, at their pleasures, and themselves or their mercenary Agents, Judges, whether a Letter be single or double) do amount to as much, if not exceed what was for<g ref="char:EOLhyphen"/>merly taken by Mr. <hi>Prideaux</hi> and his Agents, and at the fresh importunity of many thousand Citizens of London, as is testi<g ref="char:EOLhyphen"/>fied by their Subscriptions; as also by the Grand Inquests of the Northern &amp; other Counties, all of which apprehend, that its more equal such a sum (as in probability may be raised by farming the Inland Letters) might more legally and equally be raised, or otherwise added to the publike Tax; and being very confident
+<pb n="4" facs="tcp:206943:4"/>that the Wisdom of this Parliament will not so far regard the wily insinuations of any man who desires to farm the same upon pretence that the State wants money, when his onely design is to enrich himself by the Nations prejudice; nor by such or a<g ref="char:EOLhyphen"/>ny other, be drawn to lay a restraint upon the Nation in the choice of their Carriers of Letters, or any other Commodities whether small or great: The said Undertaker in the beginning of the last Month, made provision by setling most of the Northern Road with Horses and Agents for the carrying of Letters and small Commodi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies; but since his coming to town hath heard of a Resolve in Parliament, by which it is re<g ref="char:EOLhyphen"/>ferred to the present Council of State to dispose thereof to the best advantage of the Commonwealth, by which some would understand that it's intended by the Parliament to let the same out to Farm for money, as formerly; though those that love and honour the Parliament, are far from harbouring such a thought either of the Parliament, or present Council of State; &amp; therefore its intended, according to the Publication already extant, (if not restrained by Authority) to proceed in setling the rest of the Roads, in order to the carrying of Letters and Commodities at the Rates published, being a penny for Eng<g ref="char:EOLhyphen"/>land, two pence for Scotland, &amp; four pence for Ireland &amp; 3. d. <hi>per</hi> Ounce for smal<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> commodityes: And that all the Moneys accruing by the carriage of such Letters and smal Commodities, shal be paid to such hands as shall be appointed; and that (after incident charges, together with a reasonable allowance for his pains, be deducted) the over plus (if any) be disposed for set<g ref="char:EOLhyphen"/>ting the poor on work in <hi>London, York,</hi> and the Countrey Corporations where such Posts are setled; and also, to give suf<g ref="char:EOLhyphen"/>ficient Security for the management hereof, (if required;) and likewise, to settle Horses in all the usual Roads, to carry men with their Guides at half the Rates of what is now taken, <hi>v<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>z.</hi> 3. d. <hi>per</hi> Mile, for both the Riders Horse and Guides; Not doubting but it will be conceived this way of lessening the Rates to be the best advantage of the Commonwealth.</p>
+            <div type="part">
+               <pb n="6" facs="tcp:206943:5"/>
+               <head>Some, amongst many other Reasons that might be given, against the letting of carriage of Letters to Farm.</head>
+               <p>The Statute of 21. <hi>Jac.</hi> provides, That all Commissions, Grants, Licenses and Patents granted, or to be granted for working or using any thing, or of any other monopolies, shal be utterly void; and the wisdom and care of that Parliament in preserving the Peoples Rights against any monopolizing re<g ref="char:EOLhyphen"/>straints in their lawful employments, is observable, the penal<g ref="char:EOLhyphen"/>ty being trebble damages, and double costs to the party grie<g ref="char:EOLhyphen"/>ved; and it must certainly be an offence against the Common Law, when it is so clearly against common Reason, Correspon<g ref="char:EOLhyphen"/>dency being absolutely necessary in relation to Commerce; it's most unjust and unreasonable that a man be compelled to em<g ref="char:EOLhyphen"/>ploy a man in carriage of his Letters and Commodities, whom perhaps he hath found unfaithful (rather then another in whom he doth confide;) and shall a man be compelled rather to imploy a man that intends to introduce Monopolies to the prejudice of the Nations in general, rather then him that hath ventured his pains and Estate for the relief of the Nati<g ref="char:EOLhyphen"/>ons against so potent an Antagonist.</p>
+               <p n="2">2. Is it not sufficient that the Duties of Excise and Custom be paid for the Commodities a man sends for? If not, then whe<g ref="char:EOLhyphen"/>ther it be not more equal to add so much as the Inland Letters may be thought to be farmed at, to the publike Revenue, which would not signifie much; admit it should be 8000. l. by the year, which is more then any man can afford to give, except he be his own carver in all Letters and Pacquets except single; and what is such a sum, added to above two Millions, which is conceived to be the least of the publike in-come, one way or other? A publike Tax raiseth a certainty, all which doth, or ought to come to the publike Use; this causeth the Monopolizer under colour of paying his Rent, to hope to gain as much to himself as the first Farmer, of whom its credibly reported by Farming, both Offices as now they are called) in two years onely be
+<pb n="7" facs="tcp:206943:5"/>purchased Lands of the yearly value of near 1000. l. in fee, which must cost more money then the people of these Nations con<g ref="char:EOLhyphen"/>cerned in commerce and correspondency, could well spare: Be<g ref="char:EOLhyphen"/>sides, Merchants and Handycrafts-men, deserve more encou<g ref="char:EOLhyphen"/>ragement then to have such a sum, or any sum added to all o<g ref="char:EOLhyphen"/>ther impositions. Again, the same Reason may introduce the vilest and worst of Monopolies; for a man may as well be re<g ref="char:EOLhyphen"/>strained in sending a Porter, or his own known servant with a Letter, or upon any Errand into the City or Countrey, either by Postages, or otherwise, without an Imposition up<g ref="char:EOLhyphen"/>on every such occasion to the State. Also it hinders a man to be as civil as otherwise he would, or might be, in having, or re<g ref="char:EOLhyphen"/>turning an accompt to, or from his friend, many a man in these times being forced to set a greater value of 6. d. or 3. d. then of three times as much in former times, when money was more plentiful; &amp; certainly any man but a Farmer will confess it to be a strange imposition, that a man cannot have an accompt of the condition of his Wife or Family, without paying thrice as much as heneed; &amp; it seems as unreasonable for a man to be fored to pay 3. d. for what may be done for a penny, (in relation to Let<g ref="char:EOLhyphen"/>ters) as for a man to be compelled to pay thrice as much for meat or any other commodity, as the price currant.</p>
+               <p>
+                  <hi>Obj.</hi> The carriage of Letters at the old rate, will yeild a con<g ref="char:EOLhyphen"/>siderable revenue to the publike, and a man payes freely for his Letters, for the most part being of beneficial concernment.</p>
+               <p>
+                  <hi>Ans.</hi> It's confessed that this is the greatest Argument, and onely considerable, but may receive this answer: If by this imposition all others were to be forborn, it were somewhat reasonable; but added to the whole revenue, inconsiderable, and its generally conceived, that the people had rather pay thrice as much orher ways, being not so imbittered by the payment in gross, as this way, which tends chiefly to the pinching or dis<g ref="char:EOLhyphen"/>couragement of the active Tradesman; and are they not the same just, equal, and legal wayes of raising this inconsiderable sum in respect of the whole) as of the rest.</p>
+               <p>The second part of the objection is utterly deny'd, for though a man will willingly pay three-pence to have an ac<g ref="char:EOLhyphen"/>count
+<pb n="8" facs="tcp:206943:6"/>of his family, or business, rather then want such an ac<g ref="char:EOLhyphen"/>count; yet certainly no man will, or ever did willingly pay three-pence, for which he need pay but a peny.</p>
+               <p>And if for reasons of State Posts must be erected, certainly he is not the fittest man that will give the most mony for it, but rather he that will undertake the service at the cheapest rate, which must be the best advantage to the Common-wealth, and its hoped, the present Counsellors of State will eye the good and ease of the Publick in this particular.</p>
+               <p>
+                  <hi>Object.</hi> In regard of the unsettledness of the Nations, the Carriage of Letters cannot securely be trusted with any, or every person.</p>
+               <p>
+                  <hi>S<gap reason="illegible" extent="1 chunk">
+                        <desc>…</desc>
+                     </gap>.</hi> It's very true, especially relating to the States Pac<g ref="char:EOLhyphen"/>kets, which he pretends not to, however will be ready to car<g ref="char:EOLhyphen"/>ry them as faithfully as formerly (which for any thing hee knows by h mself, or ever heard, either of himself, or then Partners to the contrary, all the time of their under<g ref="char:EOLhyphen"/>taking, being for a year together was performed, as well to the content of the then Council of State, as all others concerned therein. However the Males may be delivered sealed to whom they shall be appointed and being brought to known places, (as now they are,) may be as lyable to inspection as any other, which with such other caution as is ready to be tendered, will be sufficient security.</p>
+               <p>If it be objected, That the Parliament hath power to make a Law for erecting of an Office, and to lay a restraint of o<g ref="char:EOLhyphen"/>thers, and to reserve a Rent.</p>
+               <p>
+                  <hi>Ans.</hi> In <hi>Aug</hi> 1642. it was no Office, and the restraint then voted to be illegal, and against the Liberties of the people, there being no Act of Parliament (in which every mans consent is implyed) made since, it remains in it self free. And admit it shall be made an Office, it's hoped that that precious Law made 12. <hi>R.</hi> 2. C. 2. which saies, That none shall be put in Office by suit, or <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or reward, but upon desert, may not be thought unworthy of being a president; and the business being of such importance to the people; it's submitted whether it ought to be disposed of by way of Farming, before a full and free Parliament convene, and by that time the Undertaker hopes to convince all unbias<g ref="char:EOLhyphen"/>sed persons of the unreasonableness of the farming of carriage of Letters.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:206943:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
